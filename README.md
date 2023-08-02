@@ -3,4 +3,4 @@
 * 그날 공부한 내용을 기록합니다.
 * (2023.08.01~)
 
-[html] (html/html.md)
+[HTML](html/html.md)
