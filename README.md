@@ -7,6 +7,7 @@
 - [Tag](HTML/Tag.md)
 
 ## 📓 CSS
+- [Pseudo-class](CSS/Pseudo-class.md)
 
 ## 📓 JS
 - [Youtube 영상정리](JS/코딩앙마/자바스크립트%20기초강의.md)
