@@ -1,4 +1,4 @@
-# 📝 Development common sense
+📝 Development common sense
 
 ## ✏️ Table of Contents
 
